@@ -44,3 +44,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## If problem occurs in your end
+
+Try to change "start": "react-scripts --openssl-legacy-provider start" inside package.json
+into "start": "react-scripts start"
